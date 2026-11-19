@@ -1,0 +1,8 @@
+{
+  "appId": "com.ornek.mizrakcagi",
+  "appName": "Mızrak Çağı",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#140f0b"
+  }
+}
